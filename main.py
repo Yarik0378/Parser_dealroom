@@ -12,8 +12,8 @@ import re
 driver = webdriver.Chrome()
 wait = WebDriverWait(driver, 3)
 
-email = 'larise3094@activesniper.com'
-password = 'BusinessEmail'
+email = '-------------'
+password = '-----------'
 
 
 def logination():
